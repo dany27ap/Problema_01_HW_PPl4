@@ -1,0 +1,2 @@
+interface Solids : SolidShape, NonSolidShape{
+}
